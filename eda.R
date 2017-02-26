@@ -7,3 +7,4 @@ EDA <- function(x) {
   qqnorm(x); qqline(x)		#正态概率图
   par(mfrow = c(1, 1))		# 恢复每页1图
 }
+
