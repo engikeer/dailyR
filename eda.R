@@ -8,6 +8,7 @@ EDA <- function(x) {
     par(mfrow = c(1, 1))		# 恢复每页1图
 }
 sk <- function(x, na.omit=FALSE) {
+    # 计算偏度与峰度
     if (na.omit)
         x <- x[!is.na(x)]
     m <- mean(x)
