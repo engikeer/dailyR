@@ -1,11 +1,12 @@
 ## 数据科学工作流程
 ![1_数据科学工作流程](https://raw.githubusercontent.com/engikeer/markdown/master/cache/1_%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B.png)
+
 1. 数据导入
 2. 数据整理
 3. 反复理解数据
-    * 数据可视化
-    * 数据转换
-    * 统计建模
+    + 数据可视化
+    + 数据转换
+    + 统计建模
 4. 作出推断（比如预测）
 5. 沟通交流
 6. 自动化分析
