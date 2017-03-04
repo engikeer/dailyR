@@ -1,3 +1,4 @@
+# 从小木虫网站批量提取考研调剂信息
 library(RCurl)
 library(XML)
 
