@@ -2,6 +2,7 @@
 library(RCurl)
 library(XML)
 
+
 # 下载网页html文档
 download <- function(strURL){
     h <- basicTextGatherer()# 查看服务器返回的头信息
